@@ -301,6 +301,5 @@ if __name__ == "__main__":
     except:
         print("Traffic monitoring - INACTIVE")
 
-    print('x')
     
 
