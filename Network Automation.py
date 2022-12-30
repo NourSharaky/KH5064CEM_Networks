@@ -187,7 +187,6 @@ def get_packet_info(packet):
 
     # Mitigation
     Threat_Detector(sourceMAC, trustedMACs, packet)
- 
 
 def sniffer(myFilter=""):
 
